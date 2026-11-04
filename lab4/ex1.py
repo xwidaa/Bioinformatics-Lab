@@ -1,6 +1,5 @@
 #Take a DNA sequence from NCBA entire genoms and take 2000 random samples from the entire sequence of about 100-120 bases and store this samples in an array or list. Rebuild the DNA sequence using this random samples and find out what will be the main problem without the algorithm approach.
 
-
 import random
 
 filename = "genome.fna"
